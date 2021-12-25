@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>--%>
 
-   <h1> Merry Cristmass & Happy New Year!!! </h1>
+   <h1> I wish you all Merry Cristmass & Happy New Year!!! </h1>
 
   
 </form>
