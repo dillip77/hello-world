@@ -32,7 +32,8 @@
   </div>--%>
 
    <h1> I wish you all Merry Cristmass & Happy New Year!!! </h1>
-      <h2> Hey Soyush and Dikshya, How is it Going ? Do you wanna a Candy -()- :) </h2>
+      <h2> Thanks & Regards, </h2>
+        <h3> The Samals :)</h3>
 
   
 </form>
